@@ -1,5 +1,5 @@
-wp-config.php
-config.php
+/wp-config.php
+/config.php
 .env
 *.log
 /cache/
