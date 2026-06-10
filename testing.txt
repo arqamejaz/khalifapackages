@@ -1,0 +1,3 @@
+Auto-deploy test file.
+Pushed from local on 2026-06-10.
+If you can see this on cPanel, the pull cron is working.
