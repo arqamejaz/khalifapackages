@@ -1,0 +1,182 @@
+[06-May-2026 06:43:24 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:43:24 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:43:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:43:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:43:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:43:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:43:26 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:44:24 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:44:24 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:44:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:44:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:44:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:44:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:44:26 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:24 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:24 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:25 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:26 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:26 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:40 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:49 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:54 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:46:57 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26
+[06-May-2026 06:47:02 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.30. in /home/khalifa/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/khalifa/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/khalifa/public_html/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/khalifa/public_html/public/index.php(34): require('/home/khalifa/p...')
+#3 {main}
+  thrown in /home/khalifa/public_html/vendor/composer/platform_check.php on line 26

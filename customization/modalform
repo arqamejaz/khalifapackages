@@ -1,0 +1,52 @@
+in tab-content of Add product button
+
+<div class="tab-pane active" id="product_list_tab">
+                        <button type="button" class="btn btn-primary pull-right" data-toggle="modal" data-target="#myModal">
+                            Update Prices
+                          </button>
+                    </div>
+
+
+
+
+    <!-- -------------------------------------Modal Start---------------------------------- -->
+
+    <div class="modal fade" id="myModal">
+		<div class="modal-dialog">
+      		<div class="modal-content">
+      
+				<!-- Modal Header -->
+				<div class="modal-header">
+          			<h3 class="modal-title">Update Price by Percentage</h3>
+				</div>
+        
+				<!-- Modal body -->
+                <Form action="{{ url('/pro') }}" method="POST">
+                    @csrf
+                    <div class="modal-body">
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                {!! Form::label('category_id', __('product.category') . ':*') !!}
+                                {!! Form::select('category_id', $categories, null, ['class' => 'form-control select2', 'required', 'style' => 'width:100%', 'id' => 'product_list_filter_category_id', 'placeholder' => __('lang_v1.all')]); !!}
+                                {{-- <label for="sel1">Category:*</label> --}}
+                            </div>                            
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                {!! Form::label('percentage', __('Percentage') . ':*') !!}
+                                {!! Form::text('percentage', null, ['class' => 'form-control', 'required',
+                                'placeholder' => __('Percentage')]); !!}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="Submit" class="btn btn-primary">Submit</button>
+                        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                    </div>        
+                </Form>              
+      		</div>
+    	</div>
+  	</div>
+    <!-- -------------------------------------Modal End-------------------------------------- -->

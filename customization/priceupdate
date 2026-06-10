@@ -1,0 +1,14 @@
+ public function priceupdate(Request $request){
+        $category_to_update = request()->input('category_id');
+        $percentage_to_update = request()->input('percentage');
+        $products = DB::table('products')
+            ->join('categories', 'products.category_id', '=', 'categories.id')
+            ->join('variations', 'products.id', '=', 'variations.product_id')
+            ->select('products.id', 'products.name as product_name', 'categories.name as category_name', 'variations.name as variation_name', 'variations.default_sell_price')
+            ->where('categories.id', '=', $category_to_update)
+            ->update([
+                'sell_price_inc_tax' => DB::raw("sell_price_inc_tax * (1 + {$percentage_to_update} / 100)"),
+                'default_sell_price' => DB::raw("default_sell_price * (1 + {$percentage_to_update} / 100)"),
+        ]);
+        return redirect('products');
+    }

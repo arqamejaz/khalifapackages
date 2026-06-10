@@ -1,0 +1,15 @@
+Customization Khalifa Packages
+--------------------------------------------------------------------
+1- Bulk price update by Category wise in percentage
+-add button on index of products with modal (modalform.txt)
+-add function in productcontroller (priceupdate.txt)
+-Route::post('/pro', 'ProductController@priceupdate');
+
+--------------------------------------------------------------------
+2-Custom invoice number input in Sell Pos
+-For adding input field in Sell pos add the code in custominput section of custominvoice file
+-Same for edit invoice add the code in custominput edit section of custominvoice file
+-Replace the following code of SellPosController with controller section of custominvoice file
+$invoice_no = $this->transactionUtil->getInvoiceNumber($business_id, 'final', $transaction->location_id);
+
+--------------------------------------------------------------------

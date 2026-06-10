@@ -1,0 +1,6 @@
+wp-config.php
+config.php
+.env
+*.log
+/cache/
+/tmp/

@@ -1,0 +1,37 @@
+Custominput section
+------------------------------------------------------
+(pos_form.blade.php)
+<div class="row">
+	@can('edit_invoice_number')
+	<div class="col-sm-4">
+		<div class="form-group">
+			{!! Form::label('invoice_no', __('sale.invoice_no') . ':') !!}
+			{!! Form::text('invoice_no', null, ['class' => 'form-control', 'placeholder' => __('lang_v1.keep_blank_to_autogenerate')]); !!}
+		</div>
+	</div>
+	@endcan
+</div>
+-------------------------------------------------------
+Custoninput edit Section
+------------------------
+(pos_form_edit.blade.php)
+<div class="row">
+	@can('edit_invoice_number')
+	<div class="col-sm-4">
+		<div class="form-group">
+			{!! Form::label('invoice_no', __('sale.invoice_no') . ':') !!}
+			{!! Form::text('invoice_no', $transaction->invoice_no, ['class' => 'form-control', 'placeholder' => __('sale.invoice_no')]); !!}
+		</div>
+	</div>
+	@endcan
+</div>
+----------------------------------------------------------
+Controller section
+------------------
+
+if (!isset($transaction->invoice_no) || empty($transaction->invoice_no)) {
+                $invoice_no = $this->transactionUtil->getInvoiceNumber($business_id, 'final', $transaction->location_id);
+            } else {
+                $invoice_no = $transaction->invoice_no;
+            }
+---------------------------------------------------------

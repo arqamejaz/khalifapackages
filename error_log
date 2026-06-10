@@ -1,0 +1,14 @@
+[07-Jun-2026 17:55:12 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.31. in /home/flicksco/sales.khalifapackages.com/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/flicksco/sales.khalifapackages.com/vendor/composer/autoload_real.php(25): require()
+#1 /home/flicksco/sales.khalifapackages.com/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/flicksco/sales.khalifapackages.com/artisan(18): require('/home/flicksco/...')
+#3 {main}
+  thrown in /home/flicksco/sales.khalifapackages.com/vendor/composer/platform_check.php on line 26
+[07-Jun-2026 17:55:12 UTC] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.3.0". You are running 8.2.31. in /home/flicksco/sales.khalifapackages.com/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/flicksco/sales.khalifapackages.com/vendor/composer/autoload_real.php(25): require()
+#1 /home/flicksco/sales.khalifapackages.com/vendor/autoload.php(22): ComposerAutoloaderInitc24849ce517e595851d0c0a3e2c94573::getLoader()
+#2 /home/flicksco/sales.khalifapackages.com/artisan(18): require('/home/flicksco/...')
+#3 {main}
+  thrown in /home/flicksco/sales.khalifapackages.com/vendor/composer/platform_check.php on line 26
