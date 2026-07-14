@@ -1169,34 +1169,7 @@ $(document).ready(function() {
         sell_form = $('form#edit_sell_form');
         pos_total_row();
     }
-    sell_form_validator = sell_form.validate({
-        rules: {
-            invoice_no: {
-                remote: {
-                    url: '/sell/check-invoice-number',
-                    type: 'post',
-                    data: {
-                        invoice_no: function() {
-                            return $('#invoice_no').val();
-                        },
-                        transaction_id: function() {
-                            var id = '';
-                            var editForm = $('form#edit_sell_form');
-                            if (editForm.length) {
-                                id = editForm.data('transaction-id');
-                            }
-                            return id || '';
-                        }
-                    }
-                }
-            },
-        },
-        messages: {
-            invoice_no: {
-                remote: LANG.invoice_number_already_exists,
-            },
-        },
-    });
+    sell_form_validator = sell_form.validate({});
 
     $('button#submit-sell, button#save-and-print').click(function(e) {
         //Check if product is present or not.
